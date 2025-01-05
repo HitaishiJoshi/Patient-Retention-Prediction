@@ -1,6 +1,6 @@
 # Patient Retention Prediction using Synthetic Data and Machine Learning
 
-## About
+## Project Overview
 This project predicts patient retention using synthetic data and machine learning. Synthetic datasets were generated using Python and JSON scripts to mimic real-world healthcare scenarios. The project implements advanced ML techniques to analyze patient data and provide insights for improving retention strategies.
 
 ---
